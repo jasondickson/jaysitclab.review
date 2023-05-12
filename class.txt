@@ -1,0 +1,1 @@
+.Dep{background color ; red; color: smoke white; boarder:2px soilid black; margin:40 px; padding: 30px;}

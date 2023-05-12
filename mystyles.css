@@ -1,0 +1,9 @@
+body{background-image: url(myimages/pic3.jpg);background-repeat: repeat;background: size 400px;;padding: 2px;}
+    h1{color: solid dark black;block-size: 20%
+    p;color: antiquewhite;}
+    h2{color: black;block-size: 20%;}
+    
+table,th,td{border: 1 px solid #ffbf00 ;border-collapse: separate;}
+    th,td{background-color: aqua;}
+table,th,td.Dept{background-color: tomato;color:smokewhite ;border: 2px solid blanchedalmond;margin: 20 px; padding:20 px ;width: 30%;}   
+ h1#BeforeTechnology{background-color:charcoal black ; color:#cc3f3f;padding: 60 px;text-decoration: double;text-align: center}
